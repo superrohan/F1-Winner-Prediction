@@ -24,7 +24,7 @@ If FastF1 is missing in some environments, it will be installed automatically us
 ## Usage
 Run the script using Python:
 ```bash
-python f1_prediction.py
+python aus-gp-prediction.py
 ```
 The output will display the predicted winner and a ranking of drivers based on estimated race times.
 
